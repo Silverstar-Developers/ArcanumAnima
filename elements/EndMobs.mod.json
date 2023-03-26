@@ -1,0 +1,24 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityEndermite"
+      },
+      {
+        "value": "EntityShulker"
+      }
+    ],
+    "biomes": [],
+    "name": "end",
+    "namespace": "mod"
+  }
+}

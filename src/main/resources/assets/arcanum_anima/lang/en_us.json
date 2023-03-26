@@ -1,0 +1,18 @@
+{
+  "item.arcanum_anima.nether_soul": "Corrupted Soul",
+  "item.arcanum_anima.netherite_athame": "Netherite Athame",
+  "gui.arcanum_anima.infusion_altar_gui.button_infuse": "Infuse",
+  "gui.arcanum_anima.infusion_altar_gui.label_infusion_altar": "Infusion Altar",
+  "item.arcanum_anima.wooden_athame": "Wooden Athame",
+  "item.arcanum_anima.diamond_athame": "Diamond Athame",
+  "item.arcanum_anima.blank_rune": "Blank Rune",
+  "item.arcanum_anima.golden_athame": "Golden Athame",
+  "item.arcanum_anima.stone_athame": "Stone Athame",
+  "block.arcanum_anima.infusion_table": "Infusion Altar",
+  "item.arcanum_anima.iron_athame": "Iron Athame",
+  "item.arcanum_anima.steel": "Steel",
+  "itemGroup.tabarcanum_anima": "Arcanum Anima",
+  "item.arcanum_anima.boss_soul": "Greater Soul",
+  "item.arcanum_anima.end_soul": "Warped Soul",
+  "item.arcanum_anima.overworld_soul": "Natural Soul"
+}

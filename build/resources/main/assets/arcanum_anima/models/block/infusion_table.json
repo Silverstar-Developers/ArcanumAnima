@@ -1,0 +1,9 @@
+{
+  "parent": "arcanum_anima:custom/infusion_altar",
+  "textures": {
+    "all": "arcanum_anima:blocks/infusion_altar2",
+    "particle": "arcanum_anima:blocks/quartz_block_bottom",
+    "0": "arcanum_anima:blocks/infusion_altar2"
+  },
+  "render_type": "solid"
+}

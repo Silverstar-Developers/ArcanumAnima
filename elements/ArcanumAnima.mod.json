@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Arcanum Anima",
+    "icon": {
+      "value": "CUSTOM:BlankRune"
+    },
+    "showSearch": false
+  }
+}

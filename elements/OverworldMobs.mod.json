@@ -1,0 +1,192 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityAllay"
+      },
+      {
+        "value": "EntityBat"
+      },
+      {
+        "value": "EntityBee"
+      },
+      {
+        "value": "EntityCat"
+      },
+      {
+        "value": "EntityCaveSpider"
+      },
+      {
+        "value": "EntityChicken"
+      },
+      {
+        "value": "EntityCod"
+      },
+      {
+        "value": "EntityCow"
+      },
+      {
+        "value": "EntityCreeper"
+      },
+      {
+        "value": "EntityDolphin"
+      },
+      {
+        "value": "EntityDonkey"
+      },
+      {
+        "value": "EntityDrowned"
+      },
+      {
+        "value": "EntityEvoker"
+      },
+      {
+        "value": "EntityFox"
+      },
+      {
+        "value": "EntityFrog"
+      },
+      {
+        "value": "EntityGiantZombie"
+      },
+      {
+        "value": "EntityGlowSquid"
+      },
+      {
+        "value": "EntityGoat"
+      },
+      {
+        "value": "EntityGuardian"
+      },
+      {
+        "value": "EntityHorse"
+      },
+      {
+        "value": "EntityHusk"
+      },
+      {
+        "value": "EntityIllusionIllager"
+      },
+      {
+        "value": "EntityIronGolem"
+      },
+      {
+        "value": "EntityLlama"
+      },
+      {
+        "value": "EntityMooshroom"
+      },
+      {
+        "value": "EntityMule"
+      },
+      {
+        "value": "EntityOcelot"
+      },
+      {
+        "value": "EntityPanda"
+      },
+      {
+        "value": "EntityParrot"
+      },
+      {
+        "value": "EntityPhantom"
+      },
+      {
+        "value": "EntityPig"
+      },
+      {
+        "value": "EntityPillager"
+      },
+      {
+        "value": "EntityPolarBear"
+      },
+      {
+        "value": "EntityPufferfish"
+      },
+      {
+        "value": "EntityRabbit"
+      },
+      {
+        "value": "EntityRavager"
+      },
+      {
+        "value": "EntitySalmon"
+      },
+      {
+        "value": "EntitySheep"
+      },
+      {
+        "value": "EntitySilverfish"
+      },
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySkeletonHorse"
+      },
+      {
+        "value": "EntitySlime"
+      },
+      {
+        "value": "EntitySnowman"
+      },
+      {
+        "value": "EntitySpider"
+      },
+      {
+        "value": "EntitySquid"
+      },
+      {
+        "value": "EntityStray"
+      },
+      {
+        "value": "EntityTadpole"
+      },
+      {
+        "value": "EntityTraderLlama"
+      },
+      {
+        "value": "EntityTropicalFish"
+      },
+      {
+        "value": "EntityTurtle"
+      },
+      {
+        "value": "EntityVex"
+      },
+      {
+        "value": "EntityVillager"
+      },
+      {
+        "value": "EntityVindicator"
+      },
+      {
+        "value": "EntityWanderingTrader"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntityWolf"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityZombieHorse"
+      },
+      {
+        "value": "EntityZombieVillager"
+      }
+    ],
+    "biomes": [],
+    "name": "overworld",
+    "namespace": "mod"
+  }
+}

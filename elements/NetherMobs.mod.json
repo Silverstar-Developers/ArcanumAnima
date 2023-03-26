@@ -1,0 +1,45 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityGhast"
+      },
+      {
+        "value": "EntityHoglin"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityPiglin"
+      },
+      {
+        "value": "EntityPiglinBrute"
+      },
+      {
+        "value": "EntityStrider"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntityZoglin"
+      },
+      {
+        "value": "EntityPigZombie"
+      }
+    ],
+    "biomes": [],
+    "name": "nether",
+    "namespace": "mod"
+  }
+}
