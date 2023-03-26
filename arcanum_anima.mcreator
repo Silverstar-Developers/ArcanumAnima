@@ -17,7 +17,7 @@
     {
       "name": "ArcanumAnima",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "arcanum_anima",
@@ -28,7 +28,7 @@
     {
       "name": "InfusionAltar",
       "type": "gui",
-      "sortid": 2,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infusion_altar_gui",
@@ -42,7 +42,7 @@
     {
       "name": "InfusionTable",
       "type": "block",
-      "sortid": 3,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infusion_table",
@@ -59,7 +59,7 @@
     {
       "name": "OverworldMobs",
       "type": "tag",
-      "sortid": 4,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_mobs",
@@ -72,7 +72,7 @@
     {
       "name": "NetherMobs",
       "type": "tag",
-      "sortid": 5,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nether_mobs",
@@ -85,7 +85,7 @@
     {
       "name": "EndMobs",
       "type": "tag",
-      "sortid": 6,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_mobs",
@@ -98,7 +98,7 @@
     {
       "name": "BossMobs",
       "type": "tag",
-      "sortid": 7,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boss_mobs",
@@ -111,7 +111,7 @@
     {
       "name": "DropOverworldSoul",
       "type": "procedure",
-      "sortid": 9,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_overworld_soul",
@@ -146,7 +146,7 @@
     {
       "name": "OverworldSoul",
       "type": "item",
-      "sortid": 10,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_soul",
@@ -160,7 +160,7 @@
     {
       "name": "DropNetherSoul",
       "type": "procedure",
-      "sortid": 11,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_nether_soul",
@@ -195,7 +195,7 @@
     {
       "name": "NetherSoul",
       "type": "item",
-      "sortid": 12,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nether_soul",
@@ -209,7 +209,7 @@
     {
       "name": "DropEndSoul",
       "type": "procedure",
-      "sortid": 13,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_end_soul",
@@ -244,7 +244,7 @@
     {
       "name": "EndSoul",
       "type": "item",
-      "sortid": 14,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_soul",
@@ -258,7 +258,7 @@
     {
       "name": "DropBossSoul",
       "type": "procedure",
-      "sortid": 15,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_boss_soul",
@@ -293,7 +293,7 @@
     {
       "name": "BossSoul",
       "type": "item",
-      "sortid": 16,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boss_soul",
@@ -307,7 +307,7 @@
     {
       "name": "Steel",
       "type": "item",
-      "sortid": 17,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "steel",
@@ -321,7 +321,7 @@
     {
       "name": "BoneSteel",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_steel",
@@ -334,7 +334,7 @@
     {
       "name": "CarbonSteel",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carbon_steel",
@@ -347,7 +347,7 @@
     {
       "name": "WoodenAthame",
       "type": "tool",
-      "sortid": 20,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wooden_athame",
@@ -361,7 +361,7 @@
     {
       "name": "GoldenAthame",
       "type": "tool",
-      "sortid": 21,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_athame",
@@ -375,7 +375,7 @@
     {
       "name": "StoneAthame",
       "type": "tool",
-      "sortid": 22,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_athame",
@@ -389,7 +389,7 @@
     {
       "name": "IronAthame",
       "type": "tool",
-      "sortid": 23,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_athame",
@@ -403,7 +403,7 @@
     {
       "name": "DiamondAthame",
       "type": "tool",
-      "sortid": 24,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_athame",
@@ -417,7 +417,7 @@
     {
       "name": "NetheriteAthame",
       "type": "tool",
-      "sortid": 25,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherite_athame",
@@ -425,6 +425,61 @@
         "files": [
           "src/main/resources/assets/arcanum_anima/models/item/netherite_athame.json",
           "src/main/java/net/mcreator/arcanumanima/item/NetheriteAthameItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Kyrathia",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kyrathia",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/arcanumanima/entity/KyrathiaEntity.java",
+          "src/main/java/net/mcreator/arcanumanima/client/renderer/KyrathiaRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Cloud",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloud",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/arcanumanima/block/CloudBlock.java",
+          "src/main/resources/assets/arcanum_anima/models/item/cloud.json",
+          "src/main/resources/assets/arcanum_anima/models/block/cloud.json",
+          "src/main/resources/assets/arcanum_anima/blockstates/cloud.json"
+        ]
+      }
+    },
+    {
+      "name": "DeorumLand",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deorum_land",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/arcanumanima/world/biome/DeorumLandBiome.java"
+        ]
+      }
+    },
+    {
+      "name": "Deorum",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deorum",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/arcanumanima/world/dimension/DeorumDimension.java",
+          "src/main/resources/data/arcanum_anima/dimension_type/deorum.json",
+          "src/main/resources/data/arcanum_anima/dimension/deorum.json"
         ]
       }
     }
@@ -439,16 +494,21 @@
       "gui.arcanum_anima.infusion_altar_gui.label_infusion_altar": "Infusion Altar",
       "item.arcanum_anima.wooden_athame": "Wooden Athame",
       "item.arcanum_anima.diamond_athame": "Diamond Athame",
+      "item.arcanum_anima.kyrathia_spawn_egg": "Kyrathia Spawn Egg",
+      "entity.arcanum_anima.kyrathia": "Kyrathia",
       "item.arcanum_anima.blank_rune": "Blank Rune",
       "item.arcanum_anima.golden_athame": "Golden Athame",
       "item.arcanum_anima.stone_athame": "Stone Athame",
       "block.arcanum_anima.infusion_table": "Infusion Altar",
+      "block.arcanum_anima.cloud": "Cloud",
       "item.arcanum_anima.iron_athame": "Iron Athame",
       "item.arcanum_anima.steel": "Steel",
+      "item.arcanum_anima.deorum": "Deorum Portal Igniter",
       "itemGroup.tabarcanum_anima": "Arcanum Anima",
       "item.arcanum_anima.boss_soul": "Greater Soul",
       "item.arcanum_anima.end_soul": "Warped Soul",
-      "item.arcanum_anima.overworld_soul": "Natural Soul"
+      "item.arcanum_anima.overworld_soul": "Natural Soul",
+      "biome.arcanum_anima.deorum_land": "Deorum"
     }
   },
   "foldersRoot": {

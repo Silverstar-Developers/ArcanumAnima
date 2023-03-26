@@ -5,14 +5,19 @@
   "gui.arcanum_anima.infusion_altar_gui.label_infusion_altar": "Infusion Altar",
   "item.arcanum_anima.wooden_athame": "Wooden Athame",
   "item.arcanum_anima.diamond_athame": "Diamond Athame",
+  "item.arcanum_anima.kyrathia_spawn_egg": "Kyrathia Spawn Egg",
+  "entity.arcanum_anima.kyrathia": "Kyrathia",
   "item.arcanum_anima.blank_rune": "Blank Rune",
   "item.arcanum_anima.golden_athame": "Golden Athame",
   "item.arcanum_anima.stone_athame": "Stone Athame",
   "block.arcanum_anima.infusion_table": "Infusion Altar",
+  "block.arcanum_anima.cloud": "Cloud",
   "item.arcanum_anima.iron_athame": "Iron Athame",
   "item.arcanum_anima.steel": "Steel",
+  "item.arcanum_anima.deorum": "Deorum Portal Igniter",
   "itemGroup.tabarcanum_anima": "Arcanum Anima",
   "item.arcanum_anima.boss_soul": "Greater Soul",
   "item.arcanum_anima.end_soul": "Warped Soul",
-  "item.arcanum_anima.overworld_soul": "Natural Soul"
+  "item.arcanum_anima.overworld_soul": "Natural Soul",
+  "biome.arcanum_anima.deorum_land": "Deorum"
 }

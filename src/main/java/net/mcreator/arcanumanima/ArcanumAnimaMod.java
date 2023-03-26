@@ -32,8 +32,10 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.arcanumanima.init.ArcanumAnimaModTabs;
 import net.mcreator.arcanumanima.init.ArcanumAnimaModMenus;
 import net.mcreator.arcanumanima.init.ArcanumAnimaModItems;
+import net.mcreator.arcanumanima.init.ArcanumAnimaModEntities;
 import net.mcreator.arcanumanima.init.ArcanumAnimaModBlocks;
 import net.mcreator.arcanumanima.init.ArcanumAnimaModBlockEntities;
+import net.mcreator.arcanumanima.init.ArcanumAnimaModBiomes;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -56,11 +58,11 @@ public class ArcanumAnimaMod {
 
 		ArcanumAnimaModBlocks.REGISTRY.register(bus);
 		ArcanumAnimaModItems.REGISTRY.register(bus);
-
+		ArcanumAnimaModEntities.REGISTRY.register(bus);
 		ArcanumAnimaModBlockEntities.REGISTRY.register(bus);
 
 		ArcanumAnimaModMenus.REGISTRY.register(bus);
-
+		ArcanumAnimaModBiomes.REGISTRY.register(bus);
 	}
 
 	private static final String PROTOCOL_VERSION = "1";

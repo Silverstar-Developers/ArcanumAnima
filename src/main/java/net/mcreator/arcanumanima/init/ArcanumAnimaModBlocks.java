@@ -11,9 +11,11 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.arcanumanima.block.InfusionTableBlock;
+import net.mcreator.arcanumanima.block.CloudBlock;
 import net.mcreator.arcanumanima.ArcanumAnimaMod;
 
 public class ArcanumAnimaModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, ArcanumAnimaMod.MODID);
 	public static final RegistryObject<Block> INFUSION_TABLE = REGISTRY.register("infusion_table", () -> new InfusionTableBlock());
+	public static final RegistryObject<Block> CLOUD = REGISTRY.register("cloud", () -> new CloudBlock());
 }
